@@ -26,4 +26,4 @@ An **Online Library Management System** built using **Java** to manage book issu
 
 1. Clone the repository:
    bash
-   git clone https:https://github.com/varshini53/Library-Maagement-system/
+   git clone https:https://github.com/varshini53/Library-Maagement-system.git
